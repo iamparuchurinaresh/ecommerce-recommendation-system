@@ -1,1 +1,11 @@
-
+Product_ID,Product_Name,Category,Price,Rating
+1,Wireless Headphones,Electronics,120,4.5
+2,Bluetooth Earbuds,Electronics,80,4.3
+3,Gaming Headset,Electronics,150,4.6
+4,Noise Cancelling Headphones,Electronics,200,4.7
+5,Smart Watch,Electronics,250,4.4
+6,Running Shoes,Fashion,90,4.2
+7,Sports Shoes,Fashion,110,4.3
+8,Leather Wallet,Fashion,40,4.1
+9,Travel Backpack,Fashion,70,4.5
+10,Wireless Mouse,Electronics,35,4.2
